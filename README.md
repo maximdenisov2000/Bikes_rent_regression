@@ -7,7 +7,7 @@
 
 1) Из трёх вариантов моделей (RandomForestRegressor, DecisionTreeRegressor и LinearRegressor) отобрана наиболее оптимальная - RandomForestRegressor с {'max_depth': 25, 'n_estimators': 800}
 
-2) Полученные усреднённые метрики ошибок:
+2) Полученные усреднённые (после кросс-валидации) метрики ошибок :
 
 MAE: 62.9
 
